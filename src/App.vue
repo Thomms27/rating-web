@@ -20,7 +20,6 @@ export default {
 // main css
 body {
   //background-color: #999;
-  background-image: url("https://ih1.redbubble.net/image.737485421.8107/flat,750x,075,f-pad,750x1000,f8f8f8.u3.jpg")
   background-color: #0071c5;
   line-height: 1;
 }
